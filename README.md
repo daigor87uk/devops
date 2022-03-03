@@ -2,5 +2,5 @@
 devops training
 _italic_
 **bold**
->quotes<
+>>quotes
 example
