@@ -7,3 +7,9 @@ _italic_
 >quotes
 
 <img align="right" width="300" height="600" src="https://img-9gag-fun.9cache.com/photo/aWgpBr4_460swp.webp">
+
+
+| Give up     | Succeed    |
+| ----------- | ---------- |
+| Regret      | Archieve   |
+| Cry         | Try        |
