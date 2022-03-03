@@ -3,4 +3,4 @@ devops training
 _italic_
 **bold**
 >quotes
-[Google Home Page](www.google.co.uk)
+[Google Home Page](https://www.google.co.uk)
